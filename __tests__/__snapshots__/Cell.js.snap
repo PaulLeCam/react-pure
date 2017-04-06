@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cell adds the \`pure-u-lg-*\` class based on the \`lg\` property 1`] = `[Function]`;
+
+exports[`Cell adds the \`pure-u-md-*\` class based on the \`md\` property 1`] = `[Function]`;
+
+exports[`Cell adds the \`pure-u-sm-*\` class based on the \`sm\` property 1`] = `[Function]`;
+
+exports[`Cell adds the \`pure-u-xl-*\` class based on the \`xl\` property 1`] = `[Function]`;
+
+exports[`Cell applies the class based on the \`size\` property 1`] = `[Function]`;
+
+exports[`Cell renders a div with class \`pure-u-1\` by default 1`] = `[Function]`;

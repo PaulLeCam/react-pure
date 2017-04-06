@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table adds the \`pure-table-bordered\` class if the \`bordered\` property is set 1`] = `[Function]`;
+
+exports[`Table adds the \`pure-table-horizontal\` class if the \`horizontal\` property is set 1`] = `[Function]`;
+
+exports[`Table adds the \`pure-table-striped\` class if the \`striped\` property is set to true 1`] = `[Function]`;
+
+exports[`Table renders a table with class \`pure-table\` by default 1`] = `[Function]`;

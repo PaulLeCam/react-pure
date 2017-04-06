@@ -5,7 +5,7 @@ import Layout from './components/Layout';
 import Index from './components/IndexPage';
 
 export default (
-    <Route handler={Layout} path='/'>
-        <DefaultRoute handler={Index} />
-    </Route>
+  <Route handler={Layout} path="/">
+    <DefaultRoute handler={Index} />
+  </Route>
 );

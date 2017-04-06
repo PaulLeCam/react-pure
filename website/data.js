@@ -1,6 +1,4 @@
 module.exports = {
-    title: 'Rect-Pure',
-    routes: [
-        '/'
-    ]
+  title: 'React-Pure',
+  routes: ['/'],
 };

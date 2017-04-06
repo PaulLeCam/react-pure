@@ -1,8 +1,12 @@
 {
-  "optional": [
-    "es7.classProperties",
-    "es7.exportExtensions",
-    "es7.objectRestSpread",
-    "runtime"
-  ]
+  "presets": [
+    ["env", {
+      "targets": [
+        "last 2 versions",
+        "ie >= 9"
+      ],
+    }],
+    "react",
+    "stage-1"
+  ],
 }

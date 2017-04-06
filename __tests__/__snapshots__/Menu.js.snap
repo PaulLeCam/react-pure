@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Menu adds the \`pure-menu-horizontal\` class if the \`horizontal\` property is set 1`] = `[Function]`;
+
+exports[`Menu adds the \`pure-menu-scrollable\` class if the \`scrollable\` property is set 1`] = `[Function]`;
+
+exports[`Menu renders a div with class \`pure-menu\` by default 1`] = `[Function]`;

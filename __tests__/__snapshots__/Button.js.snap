@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button adds the \`pure-button\` class 1`] = `[Function]`;
+
+exports[`Button adds the \`pure-button-active\` class if the \`active\` property if set 1`] = `[Function]`;
+
+exports[`Button adds the \`pure-button-primary\` class if the \`primary\` property if set 1`] = `[Function]`;
+
+exports[`Button renders a button by default 1`] = `[Function]`;
+
+exports[`Button renders an anchor the \`href\` property is set 1`] = `[Function]`;
+
+exports[`Button transfers the \`disabled\` and adds the \`pure-button-disabled\` class if the \`disabled\` property if set 1`] = `[Function]`;
+
+exports[`Button transfers the \`href\` property to the anchor 1`] = `[Function]`;

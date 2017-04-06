@@ -1,4 +1,9 @@
-coverage
-node_modules
-website
 __tests__
+coverage
+website
+.babelrc
+.editorconfig
+.travis.yml
+CHANGELOG.md
+README.md
+webpack.config.babel.js

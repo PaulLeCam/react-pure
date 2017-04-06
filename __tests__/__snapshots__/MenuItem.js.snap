@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MenuItem adds the \`pure-menu-allow-hover\` class if the \`allowHover\` property is set 1`] = `[Function]`;
+
+exports[`MenuItem adds the \`pure-menu-disabled\` class if the \`disabled\` property is set 1`] = `[Function]`;
+
+exports[`MenuItem adds the \`pure-menu-has-children\` class if the \`hasChildren\` property is set 1`] = `[Function]`;
+
+exports[`MenuItem adds the \`pure-menu-selected\` class if the \`selected\` property is set 1`] = `[Function]`;
+
+exports[`MenuItem renders a li with class \`pure-menu-item\` by default 1`] = `[Function]`;

@@ -1,63 +1,63 @@
 body {
-    line-height: 1.6em;
+  line-height: 1.6em;
 }
 
 a {
-    color: #3b8bba;
-    text-decoration: none;
+  color: #3b8bba;
+  text-decoration: none;
 }
 
 a:visited {
-    color: #265778;
+  color: #265778;
 }
 
 code.inline {
-    background-color: #eee;
-    padding: 0 2px;
+  background-color: #eee;
+  padding: 0 2px;
 }
 
 header {
-    text-align: center;
+  text-align: center;
 }
 
 h2 {
-    text-align: center;
-    padding: 50px 0 30px;
-    margin: 0 150px;
-    border-bottom: 1px solid #ddd;
+  text-align: center;
+  padding: 50px 0 30px;
+  margin: 0 150px;
+  border-bottom: 1px solid #ddd;
 }
 
 h3 {
-    padding-top: 20px;
+  padding-top: 20px;
 }
 
 .navbar {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    color: #fff;
-    background-color: #1f8dd6;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  color: #fff;
+  background-color: #1f8dd6;
 }
 
 .navbar .pure-menu-children {
-    background-color: #1f8dd6;
+  background-color: #1f8dd6;
 }
 
 .navbar .pure-menu-link {
-    color: #fff;
+  color: #fff;
 }
 .navbar .pure-menu-link:hover,
 .navbar .pure-menu-link:active,
 .navbar .pure-menu-link:focus {
-    background-color: #265778;
+  background-color: #265778;
 }
 
 .navbarMenu {
-    max-width: 960px;
-    margin: 0 auto;
+  max-width: 960px;
+  margin: 0 auto;
 }
 
 .page {
-    max-width: 960px;
-    margin: 100px auto 50px;
+  max-width: 960px;
+  margin: 100px auto 50px;
 }

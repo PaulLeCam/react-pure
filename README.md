@@ -1,5 +1,4 @@
-react-pure
-==========
+# React-Leaflet [![Build Status](https://img.shields.io/travis/PaulLeCam/react-pure/master.svg)](https://travis-ci.org/PaulLeCam/react-pure) [![npm version](https://img.shields.io/npm/v/react-pure.svg)](https://www.npmjs.com/package/react-pure)
 
 [React](http://facebook.github.io/react/) components using [Pure CSS](http://purecss.io/).  
 
@@ -8,14 +7,15 @@ react-pure
 ### npm + browserify/webpack
 
 ```bash
-npm install react-pure
+npm install react-pure # npm
+yarn add react-pure # yarn
 ```
 
 React is also required as a peer dependency.
 
 ### Others
 
-You can download UMD builds from the [dist folder](https://github.com/hailocab/react-pure/tree/master/dist).  
+You can download UMD builds from the [dist folder](https://github.com/PaulLeCam/react-pure/tree/master/dist).  
 The components are accessible in the `window.ReactPure` object.
 
 ## Usage
@@ -93,10 +93,9 @@ Renders a `<li>` node with the `pure-menu-item` class by default.
 
 ## Changelog
 
-See [CHANGELOG](https://github.com/hailocab/react-pure/blob/master/CHANGELOG.md) file.
+See [CHANGELOG](https://github.com/PaulLeCam/react-pure/blob/master/CHANGELOG.md) file.
 
 ## License
 
-Apache 2.0  
-Copyright 2015 Hailo  
-See [LICENSE](https://github.com/hailocab/react-pure/blob/master/LICENSE) file.
+MIT  
+See [LICENSE](LICENSE) file.
