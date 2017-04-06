@@ -1,3 +1,9 @@
+## v0.5.0 (IN PROGRESS)
+
+- Updated Babel to v6.
+- Updated Webpack to v2.
+- Updated Jest to v19.
+
 ## v0.4.0 (2015-06-08)
 
 Update React to v15.
