@@ -1,4 +1,4 @@
-# React-Leaflet [![Build Status](https://img.shields.io/travis/PaulLeCam/react-pure/master.svg)](https://travis-ci.org/PaulLeCam/react-pure) [![npm version](https://img.shields.io/npm/v/react-pure.svg)](https://www.npmjs.com/package/react-pure)
+# React-Pure [![Build Status](https://img.shields.io/travis/PaulLeCam/react-pure/master.svg)](https://travis-ci.org/PaulLeCam/react-pure) [![npm version](https://img.shields.io/npm/v/react-pure.svg)](https://www.npmjs.com/package/react-pure)
 
 [React](http://facebook.github.io/react/) components using [Pure CSS](http://purecss.io/).  
 
